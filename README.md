@@ -1,2 +1,6 @@
 # web3-hackathon
-Repository for all code in the Web3 ETHGlobal Hackathon
+
+# Contents
+
+ - get_nft_data.py: Get Rarible NFT marketplace data using The Graph
+ - rec_dapp: Dapp using Flask and Metamask to recommend NFTs based on our Ethereum address
