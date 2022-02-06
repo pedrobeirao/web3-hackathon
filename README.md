@@ -9,6 +9,7 @@
 
 Run 'python3 get_nft_data.py' to get transaction records in Rarible of more than 800 addresses.
 Run 'python3 recommender_model.py' to get a NFT recommendation of an address.
+Run the notebooks.
 
 # Requirements
 
